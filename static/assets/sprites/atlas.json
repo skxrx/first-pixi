@@ -1,0 +1,36 @@
+{"frames": {
+
+"clear_score.png":
+{
+	"frame": {"x":0,"y":0,"w":160,"h":162},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":162},
+	"sourceSize": {"w":160,"h":162}
+},
+"rocket.png":
+{
+	"frame": {"x":160,"y":0,"w":216,"h":330},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":216,"h":330},
+	"sourceSize": {"w":216,"h":330}
+},
+"space.jpg":
+{
+	"frame": {"x":376,"y":0,"w":1200,"h":848},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1200,"h":848},
+	"sourceSize": {"w":1200,"h":848}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":1576,"h":848},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9dfdd5ff2bd27385add0e92d5daf2e85:c9635d673c1c12a3d6de0751c2618a2c:cbce6b53f0f49e0bf15173c25c41f876$"
+}
+}
